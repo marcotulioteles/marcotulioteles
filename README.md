@@ -4,6 +4,8 @@
 
 ### I'm a Civil Engineer and Front-End Developer passionate by technology.
 
+![Snake animation](https://github.com/marcotulioteles/marcotulioteles/blob/output/github-contribution-grid-snake.svg)
+
 ### Languages & Tools 🛠
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
