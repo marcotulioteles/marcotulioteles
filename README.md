@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=marcotulioteles&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=marcotulioteles&repo=marcotulioteles&countColorcountColor)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
@@ -8,7 +8,10 @@
 
 ### Languages & Tools 🛠
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
