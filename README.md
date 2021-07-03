@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> How's it going ?! </h1>
 
-### I'm a Civil Engineer and Front-End Developer passionate by technology.
+### I'm a Civil Engineer and Front-End Developer passionate about technology.
 
 ![Snake animation](https://github.com/marcotulioteles/marcotulioteles/blob/output/github-contribution-grid-snake.svg)
 
