@@ -40,6 +40,6 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/marco-tulio-teles-30019672/"><img src="https://img.shields.io/badge/Linkedin-05122A?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:marcotuliocivil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marcotulioteles"><img src="https://img.shields.io/badge/-LinkedIn-0F4CC4?logo=linkedin&logoColor=white&style=flat-square"/></a>
+<a href="mailto:marcotuliocivileng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-AC0025?logo=gmail&logoColor=white&style=flat-square"/></a>
 </p>
