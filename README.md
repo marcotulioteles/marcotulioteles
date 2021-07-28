@@ -8,7 +8,7 @@
 
 ### Languages & Tools 🛠
 
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![React Native](https://img.shields.io/badge/-React-Native-05122A?style=flat&logo=reactnative)&nbsp;![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![React Native](https://img.shields.io/badge/-React-Native-05122A?style=flat&logo=react-native)&nbsp;![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
