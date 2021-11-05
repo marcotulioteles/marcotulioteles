@@ -8,9 +8,9 @@
 
 ### Languages & Tools 🛠
 
-![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![React Native](https://img.shields.io/badge/-ReactNative-0594BC?logo=react&logoColor=white&style=flat)&nbsp;![Redux](https://img.shields.io/badge/-Redux-834DAC?logo=redux&logoColor=white&style=flat)&nbsp;![Sass](https://img.shields.io/badge/-Sass-C74C9F?logo=sass&logoColor=white&style=flat)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-StyledComponents-E238AB?logo=styled-components&logoColor=white&style=flat)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-0F4CC4?logo=typescript&logoColor=white&style=flat)&nbsp;![Git](https://img.shields.io/badge/-Git-FF3F3F?logo=git&logoColor=white&style=flat)&nbsp;![GitHub](https://img.shields.io/badge/-Git%20Hub-0A0C17?logo=github&logoColor=white&style=flat)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0F4CC4?logo=postgresql&logoColor=white&style=flat)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0A7ABC?logo=visualstudio&logoColor=white&style=flat)&nbsp;![Linux](https://img.shields.io/badge/-Linux-FF3F3F?logo=linux&logoColor=white&style=flat)&nbsp;
+![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;![Node JS](https://img.shields.io/badge/-Node%20JS-05122A?style=flat&logo=node.js)&nbsp;![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components&logoColor=FF64BC)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=65F8FF)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=46A6DF)&nbsp;![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 ### Analytics ⚙️
 
@@ -40,6 +40,6 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/marcotulioteles"><img src="https://img.shields.io/badge/-LinkedIn-0F4CC4?logo=linkedin&logoColor=white&style=flat-square"/></a>
-<a href="mailto:marcotuliocivileng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-AC0025?logo=gmail&logoColor=white&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/marcotulioteles"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=48A0DF"/></a>
+<a href="mailto:marcotuliocivileng@gmail.com"><img src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail"/></a>
 </p>
