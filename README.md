@@ -6,6 +6,16 @@
 
 ### I'm a Software Engineer passionate about technology.
 
+- 🔥 Software Engineer focused on Javascript Stack (Javascript, React, React Native, NodeJS) 
+
+- 🔭 I’m currently working at [TQI](https://www.tqi.com.br/en/home-en/)
+
+- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+
+- 💬 Ask me about **Coding, Games, Movies and Series**
+
+- ⚡ Fun fact **Besides Programmer I am a Civil Engineer and I know some stuff in music playing bass**
+
 ![Snake animation](https://github.com/marcotulioteles/marcotulioteles/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
