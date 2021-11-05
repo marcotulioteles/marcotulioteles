@@ -14,7 +14,7 @@
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marcotulioteles)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marcotulioteles&theme=tokyonight)
 
 <!-- <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
@@ -25,11 +25,11 @@
 
 <p align="left">
 <a href="https://github.com/marcotulioteles">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=marcotulioteles&count_private=true&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotulioteles&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marcotulioteles&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotulioteles&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+<img width="75%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
 <!-- <p align="center">
   <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
