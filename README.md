@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at [TQI](https://www.tqi.com.br/en/home-en/)
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 Check out a cool project that I built to practice my skill in ReactJS [Crypto Grow](https://crypto-grow.vercel.app/)
 
 - 💬 Ask me about **Coding, Games, Movies and Series**
 
