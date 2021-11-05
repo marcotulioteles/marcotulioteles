@@ -25,8 +25,8 @@
 
 <p align="left">
 <a href="https://github.com/marcotulioteles">
-  <img height="530em" src="https://github-readme-stats.vercel.app/api/?username=marcotulioteles&count_private=true&show_icons=true&theme=vision-friendly"/>
-  <img height="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotulioteles&layout=compact&langs_count=8&theme=vision-friendly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=marcotulioteles&count_private=true&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotulioteles&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </a>
 </p>
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
