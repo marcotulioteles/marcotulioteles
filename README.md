@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at [TQI](https://www.tqi.com.br/en/home-en/)
 
-- 👨‍💻 Check out a cool project that I built to practice my skill in ReactJS [Crypto Grow](https://crypto-grow.vercel.app/)
+- 👨‍💻 Check out some cool projects that I built to practice my skills in ReactJS [Crypto Grow](https://crypto-grow.vercel.app/) | [Rick and Morty - Episode Guide](https://rick-and-morty-episodes-guide.vercel.app/)
 
 - 💬 Ask me about **Coding, Games, Movies and Series**
 
