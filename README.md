@@ -12,7 +12,7 @@
 
 - 👨‍💻 Check out some cool projects that I built to practice my skills in ReactJS [Crypto Grow](https://crypto-grow.vercel.app/) | [Rick and Morty - Episode Guide](https://rick-and-morty-episodes-guide.vercel.app/)
 
-- 💬 Ask me about **Coding, Games, Movies and Series**
+- 💬 Ask me about **Coding, Games, Music, Movies and Series**
 
 - ⚡ Fun fact **Besides Programmer I am a Civil Engineer and I know some stuff in music playing bass**
 
